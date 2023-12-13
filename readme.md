@@ -2,7 +2,7 @@
 
 ## Brief
 
-Now available [here](https://github.com/thefirstcircle/SPP540-Internet-Governance-Information-Policy/blob/main/dns_over_https_issue_brief.pdf).
+Read it [here](https://github.com/thefirstcircle/SPP540-Internet-Governance-Information-Policy/blob/main/dns_over_https_issue_brief.pdf).
 
 ## Sources
 
